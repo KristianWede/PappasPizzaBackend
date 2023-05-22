@@ -25,6 +25,7 @@ Communication platforms used are Discord and Microsoft teams
 If a group member has been unattentive and silent for 24 hours, contact with a teacher will be made.
 
 
+
 ### Branching strategy
 *	Github used for VCS
 *	Feature-branching strategy
